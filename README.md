@@ -22,3 +22,5 @@ Thing to do;
 2.  When jq is not installed, do not display error messages.
     Detailed info will be skipped in message
 3.  Probably something more...
+
+Inprited on https://blog.braintower.de/ssh-login-telegramm-notification/
